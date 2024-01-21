@@ -1,0 +1,48 @@
+/* products style.css */
+
+body, h1, h2, h3, p, table, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0; 
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1400px; 
+    margin: 0 auto;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th.haha {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+}
+
+th.huhu {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+}
+
