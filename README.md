@@ -1,1 +1,0 @@
-# ejinezorendejhay.github.io
